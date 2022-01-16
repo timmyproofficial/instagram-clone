@@ -1,0 +1,22 @@
+body{
+  background-color: #fcf9f9;
+}
+
+/* .app{
+  max-width: 1300px;
+  margin: 0 auto;
+} */
+
+.app__container{
+  display: flex;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.app__container__mainContent{
+  width: 70%;
+}
+
+.app__container__sidebar{
+  width: 30%;
+}

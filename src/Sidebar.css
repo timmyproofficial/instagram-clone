@@ -1,0 +1,18 @@
+.sidebar{
+    display: flex;
+    margin-top: 60px;
+    padding-left: 25px;
+}
+
+.sidebar > img{
+    height: 60px;
+    border-radius: 50%;
+}
+
+.sidebar__headerUsername{
+    margin-left: 10px;
+}
+
+.sidebar__headerUsername > span{
+    font-size: 12px;
+}
